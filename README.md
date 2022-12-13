@@ -11,5 +11,6 @@
 <body bgcolor="gray">
 
 <h3> NOMBRE:  <h4> Luis Joel Martínez Reyes
-<h3>  VALIDO
+<h3>  Credito: 8
+
 
